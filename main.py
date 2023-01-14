@@ -85,4 +85,3 @@ Label03.grid(column=0, row=3)
 
 
 janela.mainloop()
-
